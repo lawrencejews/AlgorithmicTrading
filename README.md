@@ -1,6 +1,6 @@
 # Algorithmic Trading
 ### Public APIs on github.com
-- [Link](https://github.com/public-apis/public-apis)
+- [Link] https://github.com/public-apis/public-apis
 ### Course Website
 - [Link](htttps://nickmccullum.com/)
 - secret.py file for the cloud token IEX_CLOUD_API_TOKEN.
